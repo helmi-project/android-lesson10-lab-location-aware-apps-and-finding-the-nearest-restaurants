@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_8_Lab_10</string>
+    <string name="findBtn">Restaurant Finder</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAq_i_MVOzZ_1xMlKpFI-DpDfY6KNCHRCk</string>
+</resources>
